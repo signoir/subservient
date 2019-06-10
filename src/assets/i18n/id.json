@@ -1,0 +1,97 @@
+{
+  "APP_NAME": "signoir/angband",
+  "DEFAULT_TITLE": "Menampilkan Aplikasi",
+  "DEFAULT_META_DESCRIPTION": "Deskripsi",
+  "PUBLIC": {
+    "SHARED": {
+      "ACTION": {
+        "TOOLTIP": "Opsi",
+        "EDIT": "Edit",
+        "DELETE": "Hapus",
+        "SAVE": "Simpan"
+      },
+      "WIDGET": {
+        "REFRESH_TOOLTIP": "Perbarui"
+      },
+      "DATA_TABLE": {
+        "FILTER": "Filter hasil"
+      },
+      "TAB": {
+        "TAB_GENERAL": "Umum"
+      }
+    },
+    "LOGIN": {
+      "PAGE_TITLE": "Log in",
+      "META_DESCRIPTION": "",
+      "USERNAME": "Nama pengguna",
+      "PASSWORD": "Kata Sandi",
+      "LOG_IN": "Log in",
+      "NOTE": "Mencoba masuk...",
+      "ERROR": "Login gagal"
+    },
+    "HOME": {
+      "MENU_TITLE": "Beranda",
+      "PAGE_TITLE": "",
+      "META_DESCRIPTION": "Selamat datang",
+      "CARD_TITLE": "Beranda",
+      "CARD_SUBTITLE": "Selamat datang"
+    },
+    "AIR_UNIVERSAL": {
+      "AIRLINE": {
+        "MENU_TITLE": "Airline",
+        "PAGE_TITLE": "Airline",
+        "META_DESCRIPTION": "Air Universal",
+        "AIRLINE_TABLE": {
+          "TITLE": "Airline",
+          "ID_COL_TITLE": "ID",
+          "IATA_CODE_COL_TITLE": "Kode IATA",
+          "NAME_COL_TITLE": "Nama Airline",
+          "CREATE": "Tambahkan airline"
+        },
+        "AIRLINE_DETAIL": {
+          "MENU_TITLE": "airline",
+          "PAGE_TITLE": "airline",
+          "IATA_CODE": "kode IATA",
+          "NAME": "Nama airline"
+        }
+      }
+    },
+    "ABOUT": {
+      "ABOUT": {
+        "MENU_TITLE": "Tentang",
+        "PAGE_TITLE": "Tentang",
+        "META_DESCRIPTION": "Halaman ringkasan dan deskripsi mengenai 'tentang kami'",
+        "CARD_TITLE": "Tentang",
+        "CARD_SUBTITLE": "Halaman ringkasan dan deskripsi mengenai 'tentang kami'"
+      },
+      "ABOUT_US": {
+        "MENU_TITLE": "Kami",
+        "PAGE_TITLE": "Kami",
+        "META_DESCRIPTION": "Halaman contoh 'tentang kami'",
+        "CARD_TITLE": "Kami",
+        "CARD_SUBTITLE": "Halaman contoh 'tentang kami'"
+      },
+      "ABOUT_BANANA": {
+        "MENU_TITLE": "Banana republic",
+        "PAGE_TITLE": "Banana republic",
+        "META_DESCRIPTION": "If your life sucks, start a new one in Banana Republic",
+        "CARD_TITLE": "Banana republic",
+        "CARD_SUBTITLE": "If your life sucks, start a new one in Banana Republic"
+      },
+      "ABOUT_APPLE_PEAR": {
+        "MENU_TITLE": "Apple or pear",
+        "PAGE_TITLE": "Apple or pear",
+        "META_DESCRIPTION": "I want an apple but you give me a pear, shame on you",
+        "CARD_TITLE": "Apple or pear",
+        "CARD_SUBTITLE": "I want an apple but you give me a pear, shame on you"
+      }
+    },
+    "SECURE": {
+      "MENU_TITLE": "Halaman khusus",
+      "PAGE_TITLE": "Halaman khusus",
+      "META_DESCRIPTION": "Akses khusus hanya untuk personel yang memiliki kewenangan",
+      "CARD_TITLE": "Halaman khusus",
+      "CARD_SUBTITLE": "Akses khusus hanya untuk personel yang memiliki kewenangan"
+    }
+  }
+}
